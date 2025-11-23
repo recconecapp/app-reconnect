@@ -48,6 +48,8 @@ export default function Home() {
                 <Lock className="w-4 h-4 text-rose-400" />
                 <span className="text-sm text-gray-400">Premium</span>
               </div>
+              <div className="w-1 h-1 rounded-full bg-gray-600"></div>
+              <span className="text-sm text-gray-400">R$ 79,90/mês</span>
             </div>
           </div>
         </div>
